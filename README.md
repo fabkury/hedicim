@@ -1,9 +1,9 @@
 # Heparin and Disseminated Intravascular Coagulation
 
-This is the repository for the source code accompanying the paper and the poster.
+This project, and its repository, has been merged with https://github.com/fabkury/paamia2015
 
-Files will be made available here within a few days.
+The paamia2015 repository contains all the code for this project, as well as much more.
 
-Meanwhile, please refer to my other repository containing the code that encompasses the code that will be put here, as well as additional code around the same core project: https://github.com/fabkury/paamia2015
+Please visit https://github.com/fabkury/paamia2015 to get the source code.
 
 -- Fabrício Kury
